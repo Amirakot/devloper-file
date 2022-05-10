@@ -1,0 +1,320 @@
+.caption
+{
+ background-image: url("/image/hero-bg.jpg");
+background-size: cover;
+background-position: center center;
+background-repeat: no-repeat;
+
+ 
+
+}
+.layer
+{
+    background-color: rgba(0, 0,0, 0.5);
+    height: 100%;
+}
+.cap
+{
+    height: 100%;
+ 
+}
+h1{
+    font-size: 70px;
+    
+}
+.setting
+{background-color: #2b2424;
+color: #ffff;
+top:20%;
+}
+
+.setting i{
+    font-size: 20px;
+}
+.scroll
+{
+  
+   padding: 20px 10px;
+    width: 20px;
+    height: 30px;
+    position: absolute;
+    border-color: aliceblue;
+  bottom: 50px;
+}
+.cap h2::after{
+    content:'|';
+   
+    animation-name: typing;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+@keyframes typing {
+    2%{
+        content:'F';
+    }
+    4%
+    {
+        content: 'Fr';
+    }
+    6%
+    {
+        content: 'Fre';
+    }
+    8%
+    {
+        content: 'Free';
+    }
+    10%
+    {
+        content: 'Freel';
+    }
+    12%
+    {content: 'Freela';}
+    14%
+    {
+        content: 'Freelan';
+    }
+    16%
+    {
+        content: 'Freelanc';
+    }
+    18%
+    {
+content: 'Freelance';
+    }
+    20%
+    {
+        content: 'Freelancer';
+    }
+    22%
+    {
+        content:'Freelancer|';
+    }
+    24%
+    {
+        content:'Freelancer';
+    }
+    26%
+    {
+        content:'Freelance';
+    }
+    28%
+    {
+         content:'Freelanc';
+    }
+    30%
+    {
+        content:'Freelan';
+    }
+    32%
+    {content:'Freela';}
+    34%
+{
+    content:'Freel';
+}
+36%
+{
+    content:'Free';
+}
+38%
+{
+    content:'Fre';
+}
+40%
+{
+    content:'Fr';
+}
+42%
+{
+    content:'F';
+
+}
+44%{
+    content:'D';
+}
+46%
+{
+    content: 'De';
+}
+48%
+{
+    content: 'Des';
+}
+50%
+{
+    content: 'Desi';
+}
+52%
+{
+    content: 'Desig';
+}
+54%
+{content: 'Design';}
+56%
+{
+    content: 'Designe';
+}
+58%
+{
+    content: 'Designer';
+}
+60%
+{
+content: 'Designer|';
+}
+62%
+{
+    content: 'Designer';
+}
+64%
+{
+    content:'Designe';
+}
+66%
+{
+    content:'Design';
+}
+68%
+{
+    content:'Desig';
+}
+70%
+{
+     content:'Desi';
+}
+72%
+{
+    content:'Desi';
+}
+74%
+{content:'Des';}
+76%
+{
+content:'De';
+}
+78%
+{
+content:'D';
+}
+80%
+{
+content:'P';
+}
+82%
+{
+content:'Ph';
+}
+84%
+{
+content:'Pho';
+
+}
+86%{
+    content:'Phot';
+}
+88%
+{
+    content: 'Photo';
+}
+90%
+{
+    content: 'Photog';
+}
+92%
+{
+    content: 'Photogr';
+}
+94%
+{
+    content: 'Photogra';
+}
+96%
+{content: 'Photograp';}
+96.5%
+{
+    content: 'Photograph';
+}
+97%
+{
+    content: 'Photographe';
+}
+97.5%
+{
+content: 'Photographer';
+}
+98%
+{
+    content: 'Photographer|';
+}
+98.3%
+{
+    content:'Photographer';
+}
+98.5%
+{
+    content:'Photographe';
+}
+98.7%
+{
+    content:'Photograph';
+}
+98.9%
+{
+     content:'Photograp';
+}
+99.1%
+{
+    content:'Photogra';
+}
+99.3%
+{content:'Photogr';}
+99.4%
+{
+content:'Photog';
+}
+99.5%
+{
+content:'Photo';
+}
+99.6%
+{
+content:'Phot';
+}
+99.7%
+{
+content:'Pho';
+}
+99.8%
+{
+content:'Ph';
+
+}
+100%
+{
+ content: 'p';  
+}
+
+}
+.line
+{
+    width:30px;
+    height:5px;
+    background-color:  #0078ff;
+    margin: auto;
+}
+.background
+{
+    height :100vh;
+    background-image:url("../image/counters-bg.jpg");
+}
+.back{
+    background-image: url("../image/overlay-bg.jpg");
+    height: 100vh;
+}
+.layer3
+{
+    background-color:rgba(0,120,255,0.7)
+    
+}
+.layer3
+{height: 100%;}
